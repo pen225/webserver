@@ -1,0 +1,58 @@
+/* general */
+.titreRubrique{
+    height: 100px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+    border-radius: 10px;
+}
+
+.navbar{
+    box-shadow: 0px 0px 4px grey;
+}
+.navbar-brand{
+    margin-right: 100px;
+}
+ul li{
+    margin-right: 10px;
+}
+ul a{
+    font-size: 20px;
+}
+
+
+.conf_j1{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.prdreRdv{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background: #d3eef8;
+    color: #777;
+    height: 400px;
+    height: 520px;
+}
+
+.titre{
+    width: 400px;
+}
+.titre h1{
+    font-size: 50px;
+}
+form{
+    width: 400px;
+}
+.bgRDV{
+    height: 520px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
